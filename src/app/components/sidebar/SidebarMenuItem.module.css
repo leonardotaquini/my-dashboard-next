@@ -1,0 +1,8 @@
+
+.link{
+    @apply w-full px-2 inline-flex space-x-2 items-center rounded mt-1 border-b border-slate-700 py-3 hover:bg-blue-600 transition ease-linear duration-150
+}
+
+.linkActive{
+    @apply bg-blue-800
+}
